@@ -27,6 +27,5 @@ Refresh: Connect the dashboard to the data/ folder CSVs.
 
 Mehul Bharat Chavan
 Student, DKTE's Textile & Engineering Institute
-LinkedIn | GitHub
 
 Disclaimer: Data sourced from public cricket websites for educational purposes.
